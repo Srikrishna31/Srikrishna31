@@ -2,7 +2,7 @@
 
 ### Github stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Srikrishna31&count_private=true&show_icons=true&theme=calm)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Srikrishna31&count_private=true&show_icons=true&theme=calm)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikrishna31&show_icons=true&theme=calm)
 <!--
