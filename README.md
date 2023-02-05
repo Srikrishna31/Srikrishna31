@@ -7,6 +7,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikrishna31&show_icons=true&theme=calm)
 
 - 🌱 I’m currently learning Rust
+
+[Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <!--
 **Srikrishna31/Srikrishna31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
