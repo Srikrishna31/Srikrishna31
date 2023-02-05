@@ -8,7 +8,8 @@
 
 - 🌱 I’m currently learning Rust
 
-### Visitor Count  ![Visitor Count](https://profile-counter.glitch.me/{Srikrishna31}/count.svg)
+### Visitor Count  
+![Visitor Count](https://profile-counter.glitch.me/{Srikrishna31}/count.svg)
 
 <!--
 **Srikrishna31/Srikrishna31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
