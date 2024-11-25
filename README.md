@@ -6,6 +6,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srikrishna31&show_icons=true&theme=calm)
 
+- 🌱 I’m currently dabbling with Elm and Haskell
 - 🌱 I’m currently learning Rust
 
 ### Visitor Count  
